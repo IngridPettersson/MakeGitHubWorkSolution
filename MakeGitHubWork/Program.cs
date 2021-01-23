@@ -6,7 +6,7 @@ namespace MakeGitHubWork
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Add some changes to file...");
         }
     }
 }
